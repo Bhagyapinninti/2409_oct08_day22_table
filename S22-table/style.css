@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+body{
+    background-color: lightskyblue;
+    border: 15px ridge grey;
+}
+h1{
+    font-family: "Pirata One", system-ui;
+    text-align: center;
+    font-weight: 400;
+    font-size: 3rem;
+}
+.AP{
+    position: relative;
+    bottom: 43px;
+    text-align: center;
+}
+.SSC{
+    position: relative;
+    bottom: 190px;
+    right: 10px;
+    text-align: center;
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    position: relative;
+    text-align: center;
+    bottom: 210px;
+}
+.scanNo{
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+    color: darkmagenta;
+    font-size: 1.5rem;
+}
+.scanImg{
+    width: 160px;
+    height: 160px;
+    position: relative;
+    left:80px ;
+    bottom: 130px;
+}
+.logoImg{
+    width: 280px;
+    height: 190px;  
+    position: relative;
+    left: 420px;
+    bottom: 165px;
+}
+.passphoto{
+    width: 230px;
+    height: 230px;
+    position: relative;
+    left: 700px;
+    bottom: 120px;
+}
+.headingdata{
+    background-color: bisque;
+    height: 315px;
+    
+}
+.personalDetails{
+    background-color: lightyellow;
+    height: 390px;
+}
+#DOBtable{
+    border-collapse: collapse;
+    width: 100%;
+}
+#DOBdetails{
+    background-color: rgb(226, 226, 123);
+    border: 2px solid black;
+}
+table{
+    background-color: lightgreen;
+    background-image: url(./images/AP-State-Govt-Logo-removebg-preview.png);
+    background-repeat: no-repeat; 
+    background-position: center center;
+    background-size: 670px;
+    border: 4px double darkslategray;
+    width: 1400px;
+    border-collapse: collapse;
+    margin: 20px;
+}
+td,th{
+    border: 3px solid darkslategray;
+    height: 35px;
+      padding: 5px;
+}
+thead{
+    background-color: lightslategray;
+    height:40px;
+}
+.barcodeImg{
+    position: relative;
+    left: 70px;
+    width: 230px;
+    height: 90px;
+}
+
+.approvalSigns{
+    position: relative;
+    left: 1100PX;
+    bottom: 70PX;
+}
+.schoolsign{
+    position: relative;
+    left: 30px;
+}
+    
+.name{
+position: relative;
+top: 7px;
+left: 100px;
+}
+.father{
+position: relative;
+left: 100px;
+bottom: 12px;
+}
+.mother{
+    position: relative;
+    left: 100px;
+    bottom: 32px;
+}
+.number{
+    position: relative;
+    left: 100px;
+    bottom: 52px;
+}
+.grade{
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+.school{
+    position: relative;
+    left: 100px;
+    bottom: 80px;
+}
+.medium{
+    position: relative;
+    left: 100px;
+    bottom: 120px;
+}
+.DOB{
+    position: relative;
+    bottom: 140px;
+
+}
+caption{
+    font-size: 1.3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.finalsection{
+    position: relative;
+    bottom: 90px;
+}
